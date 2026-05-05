@@ -1,16 +1,25 @@
-## Hi there 👋
+# Meccanismo Complesso
 
-<!--
-**meccanismocomplesso/meccanismocomplesso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent research project (2017– ) focused on complex systems, 
+agent-based modeling, and emergent network dynamics.
 
-Here are some ideas to get you started:
+## Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Boundary-mediated connectivity in structured agent-based systems  
+  (2026)  
+  👉 [Paper on arXiv] (link)  
+  👉 [Code repository] (link)
+
+## About
+
+Meccanismo Complesso was originally a collaborative project (2017–2019) 
+exploring computational models and complex systems.
+
+This repository revives and consolidates that work into a research-oriented direction.
+
+## Topics
+
+- Complex systems  
+- Agent-based modeling  
+- Network science  
+- Emergence  
