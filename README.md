@@ -2,6 +2,10 @@
 
 Independent research project (2017– ) focused on complex systems, agent-based modeling, computational social science, and emergent network dynamics.
 
+Maintained by Fabio Nelli (Independent Researcher, Rome, Italy)
+ORCID: https://orcid.org/0009-0008-0725-0391
+Email: meccanismo.complesso@gmail.com
+
 ## Current Research
 
 ### From Boundary Crossings to Global Connectivity: A Minimal Mechanism in Structured Agent-Based Landscapes (2026)
